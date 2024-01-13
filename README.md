@@ -9,6 +9,6 @@ Telegram Bots:
 -->
 
 ## 📫 Contact info:
-- Telegram: t.me/Kyryh
-- Discord: kyryh
-- Twitter: @_Kyryh
+- Telegram: [@Kyryh](https://t.me/Kyryh)
+- Discord: [kyryh](https://discordapp.com/users/294165309437509642)https://discordapp.com/users/294165309437509642
+- Twitter: [@_Kyryh](https://twitter.com/_Kyryh)https://twitter.com/_Kyryh
