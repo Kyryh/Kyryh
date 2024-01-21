@@ -1,7 +1,12 @@
-## Unity mods
-- [WesV2](https://thunderstore.io/c/ultrakill/p/Kyryh/WesV2/) (ULTRAKILL)
-- [ToreadorMarchJester](https://thunderstore.io/c/lethal-company/p/Kyryh/ToreadorMarchJester/) (Lethal Company)
-- [ReturnsArtifacts](https://thunderstore.io/package/Kyryh/ReturnsArtifacts/) (Risk of Rain 2)
+## Game mods
+- ### Unity
+  - [WesV2](https://thunderstore.io/c/ultrakill/p/Kyryh/WesV2/) (ULTRAKILL)
+  - [ToreadorMarchJester](https://thunderstore.io/c/lethal-company/p/Kyryh/ToreadorMarchJester/) (Lethal Company)
+  - [FreeLookMonitor](https://thunderstore.io/c/lethal-company/p/Kyryh/FreeLookMonitor/) (Lethal Company)
+  - [ReturnsArtifacts](https://thunderstore.io/package/Kyryh/ReturnsArtifacts/) (Risk of Rain 2)
+- ### Terraria
+  - [UnlimitedGroundedItems](https://steamcommunity.com/sharedfiles/filedetails/?id=3143050137)
+
 
 <!--
 Telegram Bots:
