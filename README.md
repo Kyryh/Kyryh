@@ -8,10 +8,10 @@
   - [UnlimitedGroundedItems](https://steamcommunity.com/sharedfiles/filedetails/?id=3143050137)
 
 
-<!--
-Telegram Bots:
-- TODO
--->
+
+## Telegram Bots:
+- [Telegram Youtube DL](https://github.com/Kyryh/telegram-youtube-dl)
+
 
 ## 📫 Contact info
 - Telegram: [@Kyryh](https://t.me/Kyryh)
