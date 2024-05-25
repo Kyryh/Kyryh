@@ -4,6 +4,7 @@
   - [ToreadorMarchJester](https://thunderstore.io/c/lethal-company/p/Kyryh/ToreadorMarchJester/) (Lethal Company)
   - [FreeLookMonitor](https://thunderstore.io/c/lethal-company/p/Kyryh/FreeLookMonitor/) (Lethal Company)
   - [ReturnsArtifacts](https://thunderstore.io/package/Kyryh/ReturnsArtifacts/) (Risk of Rain 2)
+  - [PermaPings](https://thunderstore.io/package/Kyryh/PermaPings/) (Risk of Rain 2)
 - ### Terraria
   - [UnlimitedGroundedItems](https://steamcommunity.com/sharedfiles/filedetails/?id=3143050137)
 
