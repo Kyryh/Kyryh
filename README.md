@@ -12,6 +12,7 @@
 
 ## Telegram Bots:
 - [Telegram Youtube DL](https://github.com/Kyryh/telegram-youtube-dl)
+- [🎧Music Searcher Bot🎧](https://t.me/musicsearcherobot)
 
 
 ## 📫 Contact info
